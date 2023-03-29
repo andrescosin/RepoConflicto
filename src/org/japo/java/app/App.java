@@ -37,6 +37,6 @@ public final class App {
     // Logica de Negocio
     public final void launchApp() {
         //aqui se lee prp
-        System.out.println("Esto es algo realmente hipercomplicado BBB de burrico");
+        System.out.println("Algo realmente complicado AAA 222 +  BBB");
     }
 }
